@@ -4,9 +4,9 @@
 
 # I'm a Web Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ 2020 survivor
-- 💻 Passionate for making stuff
+-   🌱 I’m currently learning everything 🤣
+-   ⚡ 2020 survivor
+-   💻 Passionate for making stuff
 
 ## Who I am
 
@@ -36,7 +36,7 @@ Front-end developer passionate about creating innovative solutions. proficient i
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SL0W-HAND&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SL0W-HAND&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Stats
 
