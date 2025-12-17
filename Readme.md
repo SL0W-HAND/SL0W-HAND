@@ -26,14 +26,16 @@ My work sits at the intersection of **physics, data science, and software engine
 
 * Trained a CNN to classify skin lesions using the HAM10000 dataset
 * Deployed the model as a **Django REST API**, containerized with **Docker**
-* Frontend built with Next.js and deployed on Vercel
+* Frontend built with Next.js and deployed on **Vercel** https://melanoma-project-j6xm7q5ju-sl0whands-projects.vercel.app/
+
 * 🔗 Model and experiments published on **Kaggle**
+https://www.kaggle.com/code/sl0whand/proyectomelanoma 
 
 ### 🌌 Three-Body Problem Simulation — Scientific Computing
 
 * Numerical simulation of the three-body problem in Python
 * Trajectory visualization and animations generated with Matplotlib and FFmpeg
-* 🔗 Published as a reproducible notebook on **Deepnote**
+* 🔗 Published as a reproducible notebook on **Deepnote** https://deepnote.com/app/daniel-carrete--f033/Three-body-problem-47194945-fbd8-4ac8-8947-ede22219a840?utm_content=47194945-fbd8-4ac8-8947-ede22219a840
 
 ### ⚙️ Node-Stream — Data Streaming Backend
 
@@ -96,7 +98,7 @@ If you're interested in **data science, applied machine learning, or scientific 
 
 <p align="left"> <a href="https://www.github.com/SL0W-HAND" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="http://www.medium.com/@daniel.carrete.guzman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.linkedin.com/in/daniel-carrete-737041205/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-### ✉️  You can contact me at [daniel.carrete.guzman@gmail.com](mailto:daniel.carrete.guzman@gmail.com)
+### ✉️  You can contact me at [DanielCarreteGuzman@outlook.com](mailto:DanielCarreteGuzman@outlook.com)
 ---
 
 ## Badges
