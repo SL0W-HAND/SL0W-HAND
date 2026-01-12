@@ -26,7 +26,7 @@ My work sits at the intersection of **physics, data science, and software engine
 
 * Trained a CNN to classify skin lesions using the HAM10000 dataset
 * Deployed the model as a **Django REST API**, containerized with **Docker**
-* Frontend built with Next.js and deployed on **Vercel** https://melanoma-project-j6xm7q5ju-sl0whands-projects.vercel.app/
+* Frontend built with Next.js and deployed on **Vercel** [https://melanoma-project.vercel.app/](https://melanoma-project.vercel.app/)
 
 * 🔗 Model and experiments published on **Kaggle**
 https://www.kaggle.com/code/sl0whand/proyectomelanoma 
