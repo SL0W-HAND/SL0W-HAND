@@ -22,6 +22,11 @@ My work sits at the intersection of **physics, data science, and software engine
 
 ## 🚀 Selected Projects
 
+### 📊 **Amazon Best Sellers Data Warehouse**  
+Production-style ETL pipeline and data warehouse for tracking e-commerce rankings and prices over time.  
+**Tech:** Python, PostgreSQL, SQL, Selenium, Docker  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SL0W-HAND&repo=amazon-best-sellers-dw&theme=transparent)](https://github.com/SL0W-HAND/amazon-best-sellers-dw)
+
 ### 🧠 Melanoma Detection System — Machine Learning API
 
 * Trained a CNN to classify skin lesions using the HAM10000 dataset
