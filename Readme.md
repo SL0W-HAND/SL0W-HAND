@@ -1,6 +1,6 @@
 # Hi 👋 I'm Daniel Carrete Guzmán
 
-## Data Scientist | Python Developer | Scientific Computing
+## Data Scientist | Data Engineer | Python, Javascript Developer | Scientific Computing | Engineering Physics Background
 
 I'm a **Data Scientist with a strong background in scientific computing and engineering**, focused on building data-driven solutions end to end — from numerical simulations and data analysis to machine learning models deployed as production-ready APIs.
 
@@ -23,18 +23,31 @@ My work sits at the intersection of **physics, data science, and software engine
 ## 🚀 Selected Projects
 
 ### 📊 **Amazon Best Sellers Data Warehouse**  
-Production-style ETL pipeline and data warehouse for tracking e-commerce rankings and prices over time.  
-**Tech:** Python, PostgreSQL, SQL, Selenium, Docker  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SL0W-HAND&repo=amazon-best-sellers-dw&theme=transparent)](https://github.com/SL0W-HAND/amazon-best-sellers-dw)
+* Production-style ETL pipeline and data warehouse for tracking e-commerce rankings and prices over time.  
+* 🐱‍💻 **Repo:** [SL0W-HAND/amazon-best-sellers-dw](https://github.com/SL0W-HAND/amazon-best-sellers-dw)
+
 
 ### 🧠 Melanoma Detection System — Machine Learning API
 
 * Trained a CNN to classify skin lesions using the HAM10000 dataset
 * Deployed the model as a **Django REST API**, containerized with **Docker**
-* Frontend built with Next.js and deployed on **Vercel** [https://melanoma-project.vercel.app/](https://melanoma-project.vercel.app/)
+* 🔗 Frontend built with Next.js and deployed on **Vercel** [https://melanoma-project.vercel.app/](https://melanoma-project.vercel.app/)
+* 🔗 Model and experiments published on **Kaggle** [https://www.kaggle.com/code/sl0whand/proyectomelanoma](https://www.kaggle.com/code/sl0whand/proyectomelanoma)
+* 🐱‍💻 **Repo:** [SL0W-HAND/melanoma_project](https://github.com/SL0W-HAND/melanoma_project)
 
-* 🔗 Model and experiments published on **Kaggle**
-https://www.kaggle.com/code/sl0whand/proyectomelanoma 
+### ⚙️ Node-Stream — Data Streaming Backend
+
+* Backend system for authenticated local video streaming
+* Token-based authentication and large-file data handling
+* 🐱‍💻 **Repo:** [SL0W-HAND/node-stream](https://github.com/SL0W-HAND/node-stream)
+
+
+### 🔌 Cross Port — Client–Server File Sharing App
+
+* Desktop application for local file sharing using Electron and Express
+* Automatic HTTP server generation and Windows binary distribution
+* 🐱‍💻 **Repo:** [SL0W-HAND/Cross_Port](https://github.com/SL0W-HAND/Cross_Port)
+  
 
 ### 🌌 Three-Body Problem Simulation — Scientific Computing
 
@@ -42,17 +55,9 @@ https://www.kaggle.com/code/sl0whand/proyectomelanoma
 * Trajectory visualization and animations generated with Matplotlib and FFmpeg
 * 🔗 Published as a reproducible notebook on **Deepnote** https://deepnote.com/app/daniel-carrete--f033/Three-body-problem-47194945-fbd8-4ac8-8947-ede22219a840?utm_content=47194945-fbd8-4ac8-8947-ede22219a840
 
-### ⚙️ Node-Stream — Data Streaming Backend
-
-* Backend system for authenticated local video streaming
-* Token-based authentication and large-file data handling
-
-### 🔌 Cross Port — Client–Server File Sharing App
-
-* Desktop application for local file sharing using Electron and Express
-* Automatic HTTP server generation and Windows binary distribution
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -119,4 +124,4 @@ Time of code
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SL0W-HAND&theme=dark&hide=jupyter%20notebook&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-Readme created in [https://www.profileme.dev](https://www.profileme.dev/) and [https://github.com/SL0W-HAND/github-readme-stats](https://github.com/SL0W-HAND/github-readme-stats)
+Readme created in [https://www.profileme.dev](https://www.profileme.dev/) and [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
